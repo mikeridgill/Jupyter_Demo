@@ -2,4 +2,5 @@
 #+TITLE: Jupyter Notebook Demonstration
 #+TAGS: (d)drill
 
-Jupyter Notebook and accompanying files to allow a demonstration, for new users of python. The Notebook has been created with the intention of being appropriate for scientist, who may already have experience of using [[https://www.mathworks.com/products/matlab.html][MATLAB]] or [[https://www.r-project.org][R]].
+Jupyter Notebook and accompanying files to allow a demonstration, for new users of python. The Notebook has been created with the intention of being appropriate for scientists, who may already have experience of using [[https://www.mathworks.com/products/matlab.html][MATLAB]] or [[https://www.r-project.org][R]].
+
